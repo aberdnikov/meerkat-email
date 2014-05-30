@@ -1,0 +1,26 @@
+{
+	"name": "meerkat/meerkat-email",
+	"type": "kohana-module",
+	"description": "Email module for MeerkatCMF (on Kohana 3.3)",
+	"homepage": "http://github.com/meerkat/meerkat-email",
+	"license": "MIT",
+	"keywords": ["kohana", "module", "meerkat", "email"],
+	"authors": [
+			{
+				"name": "Chris Corbyn",
+				"email": "chris@w3style.co.uk",
+				"homepage": "http://chriscorbyn.co.uk/",
+				"role": "Developer"
+			},
+			{
+				"name": "Alexey Berdnikov",
+				"email": "aberdnikov@gmail.com",
+				"homepage": "https://github.com/aberdnikov",
+				"role": "Maintainer"
+			}
+	],
+	"require": {
+			"php": ">=5.3",
+			"composer/installers": "*"
+	} 	
+}
